@@ -1,0 +1,6 @@
+# 4. Создайте программу, которая будет запрашивать данные пользователя (имя, фамилию, возраст) и выводить их на экран.
+
+name = input("What is your name? ")
+fname = input("What is your family name? ")
+age = input("How old are you? ")
+print("You are ",name , fname , "and you're ", age,"y.o.");
